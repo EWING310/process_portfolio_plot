@@ -1,0 +1,36 @@
+{
+    "processes": [
+      {
+        "name": "Develop and Manage Study Programs",
+        "Importance": 90,
+        "Health": 90,
+        "Feasibility": 40
+      },
+      {
+        "name": "Market Study Programs",
+        "Importance": 75,
+        "Health": 80,
+        "Feasibility": 60
+      },
+
+      {
+        "name": "Schedule Courses",
+        "Importance": 95,
+        "Health": 30,
+        "Feasibility": 50
+      },
+      {
+        "name": "Manage Student Services",
+        "Importance": 85,
+        "Health": 50,
+        "Feasibility": 40
+      },
+      {
+        "name": "Manage Facilities",
+        "Importance": 40,
+        "Health": 35,
+        "Feasibility": 70
+      }
+    ]
+  }
+  
